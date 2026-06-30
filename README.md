@@ -1,16 +1,62 @@
-## Hi there 👋
+# Hi, I'm Akash Dubey 👋
 
-<!--
-**itz-akash/itz-akash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Data Analyst | Python | SQL | PostgreSQL | Power BI | Streamlit
 
-Here are some ideas to get you started:
+I'm a Data Analyst with 3+ years of experience building analytics solutions, dashboards, and ETL pipelines using Python, SQL, PostgreSQL, Power BI, and Streamlit.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming raw data into actionable business insights through data visualization, automation, and business intelligence.
+
+---
+
+## Technical Skills
+
+- Python (Pandas, NumPy)
+- SQL
+- PostgreSQL
+- Power BI
+- Streamlit
+- Plotly
+- Microsoft Excel
+- ETL
+- Data Visualization
+- Business Intelligence
+- EDA
+- Basic Cloud Exposure
+
+---
+
+## Featured Project
+
+### ☕ Coffee Market Analytics Dashboard
+
+End-to-end analytics solution built using Python, PostgreSQL, SQL, Streamlit, and Plotly.
+
+✔ 3 Public Datasets
+
+✔ 83K+ Records
+
+✔ 93 Countries
+
+✔ Interactive Dashboard
+
+✔ Business Recommendations
+
+🔗 Live Dashboard
+
+https://coffee-market-analytics-akash.streamlit.app/
+
+🔗 Repository
+
+https://github.com/itz-akash/coffee-market-analytics
+
+---
+
+## Connect with Me
+
+LinkedIn
+
+https://linkedin.com/in/akash-dubey-01ad
+
+Email
+
+aakashdubey950@gmail.com
